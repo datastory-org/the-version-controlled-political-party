@@ -2,7 +2,7 @@
 
 This repository is an 'experimental template' for accountability and efficiency in politics.
 It exemplifies ideas presented in this blog post:
-...
+https://medium.com/@Lapidus/fork-me-the-version-controlled-political-party-1ab17a86188d
 
 For example, how to version-control:
 - Budgets
