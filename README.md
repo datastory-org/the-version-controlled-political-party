@@ -16,5 +16,5 @@ The sample data in this repository comes from the Swedish Social Democratic Part
 Political parties around the world are encouraged to build upon this example using their own documents and key figures.
 
 ## License
-All the material and ideas in this repository are free to reuse under a Creative Commons license, CC BY 4.0.
-https://creativecommons.org/licenses/by/4.0/
+All the material and ideas in this repository are completely free to reuse. This work is dedicated to the public domain. No rights reserved.
+https://creativecommons.org/share-your-work/public-domain/cc0/
